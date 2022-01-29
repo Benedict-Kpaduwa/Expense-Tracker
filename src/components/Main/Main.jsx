@@ -13,7 +13,7 @@ const Main = () => {
                 <Typography align="center" variant="h5">Total Balance $100</Typography>
                 <Typography variant="subtitle1" style={{ lineHeight: "1.5em", marginTop: "20px"}}>
                     {/* <InfoCard/> */}
-                    Try saying: Add income fro $100 in catergory salary for Monday
+                    Try saying: Add income for $100 in catergory salary for Monday
                 </Typography>
                 <Divider/>
                 <Form/>
